@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\bin\Debug\netcoreapp3.1\Collections Homework Practice.exe
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\bin\Debug\netcoreapp3.1\Collections Homework Practice.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\bin\Debug\netcoreapp3.1\Collections Homework Practice.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\bin\Debug\netcoreapp3.1\Collections Homework Practice.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\bin\Debug\netcoreapp3.1\Collections Homework Practice.dll
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\bin\Debug\netcoreapp3.1\Collections Homework Practice.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.dll
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 14 Collection Practice\Collections Homework Practice\Collections Homework Practice\obj\Debug\netcoreapp3.1\Collections Homework Practice.genruntimeconfig.cache
